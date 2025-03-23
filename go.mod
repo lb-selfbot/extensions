@@ -1,4 +1,4 @@
-module github.com/LightningDev1/LB-Extensions
+module github.com/lb-selfbot/extensions
 
 go 1.21
 
